@@ -1,3 +1,4 @@
 name: Removal Fixer
-version: 0.0.0
-packageManager: node
+slug: removal-fixer-qqx
+version: 1.0.0
+packageManager: npm
