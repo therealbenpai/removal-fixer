@@ -1,10 +1,8 @@
-# StrikeBot App
-This is a striking system based on the *3 strike bot* template. You can now specify custom reasons for strikes and the bot will automatically send a message to the user with the reason for the strike. The bot will also automatically deal with punishments too.
+# Removal Fixer App
+This app allows subreddit moderators to re-approve comments and posts that were removed by accident.
 
 ## Recent Updates
-- Added a new command to check the strike count of a user
-- Auto-undo bans when removing strikes
-- Custom strike reasons
-- Private messages to users when being struck, having strikes removed, or when getting strikes reset
+- Added a new feature to allow moderators to re-approve posts and comments that were removed by accident.
+- Added the ability to add a reason to the re-approval private message.
 
 **__Made by [u/sparty182020](https://www.reddit.com/user/sparty182020)__**
